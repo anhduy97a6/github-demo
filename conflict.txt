@@ -1,1 +1,2 @@
-Sửa file để tạo Conflict
+Sửa file để tạo Conflict\
+Cố tình tạo conflict
