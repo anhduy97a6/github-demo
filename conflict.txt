@@ -1,3 +1,4 @@
 <<<<<<< HEAD
 Sửa file để tạo Conflict
 ee
+Test lại conflict ở user 2
