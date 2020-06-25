@@ -1,4 +1,4 @@
-<<<<<<< HEAD
 Sửa file để tạo Conflict
 ee
 Sửa file để test lại Resolve conflict
+
